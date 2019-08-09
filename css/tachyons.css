@@ -128,7 +128,7 @@ img { border-style: none; }
 /**
  * Hide the overflow in IE.
  */
-svg:not(:root) { overflow: hidden; }
+/* svg:not(:root) { overflow: hidden; } */
 /* Forms
    ========================================================================== */
 /**
@@ -1054,7 +1054,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 
  */
 .overflow-visible { overflow: visible; }
-.overflow-hidden { overflow: hidden; }
+/* .overflow-hidden { overflow: hidden; } */
 .overflow-scroll { overflow: scroll; }
 .overflow-auto { overflow: auto; }
 .overflow-x-visible { overflow-x: visible; }
@@ -1809,7 +1809,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .indent { text-indent: 1em; margin-top: 0; margin-bottom: 0; }
 .small-caps { font-variant: small-caps; }
 /* Combine this class with a width to truncate text (or just leave as is to truncate at width of containing element. */
-.truncate { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* .truncate { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } */
 /*
 
    UTILITIES
@@ -2297,7 +2297,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .w-two-thirds-ns { width: calc( 100% / 1.5 ); }
  .w-auto-ns { width: auto; }
  .overflow-visible-ns { overflow: visible; }
- .overflow-hidden-ns { overflow: hidden; }
+ /* .overflow-hidden-ns { overflow: hidden; } */
  .overflow-scroll-ns { overflow: scroll; }
  .overflow-auto-ns { overflow: auto; }
  .overflow-x-visible-ns { overflow-x: visible; }
@@ -2914,7 +2914,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .measure-narrow-m { max-width: 20em; }
  .indent-m { text-indent: 1em; margin-top: 0; margin-bottom: 0; }
  .small-caps-m { font-variant: small-caps; }
- .truncate-m { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+ /* .truncate-m { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } */
  .center-m { margin-right: auto; margin-left: auto; }
  .mr-auto-m { margin-right: auto; }
  .ml-auto-m { margin-left: auto; }
