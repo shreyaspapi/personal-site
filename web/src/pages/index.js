@@ -34,8 +34,8 @@ const IndexPage = () => {
       <Columns smallCount={1} smallSpacing={10} className="AlignCenter">
         <Stack smallSpacing={10} sma>
           <Stack className="AlignStart fadeInUpSlight" spacing={1}>
-            <MassiveHeading>dan hollick</MassiveHeading>
-            <Title> Designer + Coder</Title>
+            <MassiveHeading>Shreyas Papinwar</MassiveHeading>
+            <Title> Developer + Entrepreneur</Title>
           </Stack>
           <JobList className="AlignEnd" />
         </Stack>

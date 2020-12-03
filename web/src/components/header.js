@@ -42,7 +42,7 @@ const Nav = styled.nav`
 const Header = () => (
   <Nav>
     <NavLink className="JustifyStart" activeClassName="active" to="/">
-      alcohollick.
+      shreyaspapi.
     </NavLink>
     <Columns spacing={5} smallSpacing={2} className="JustifyEnd">
       <NavLink activeClassName="active" to="/things/">

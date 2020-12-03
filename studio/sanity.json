@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "alcohollick"
+    "name": "shreyaspapi"
   },
   "api": {
-    "projectId": "h2w4qpx8",
+    "projectId": "fhkd8i32",
     "dataset": "production"
   },
   "plugins": [
@@ -25,7 +25,7 @@
   "parts": [
     {
       "name": "part:@sanity/base/schema",
-      "path": "./schemas/schema.js"
+      "path": "./schemas/schema"
     }
   ]
 }

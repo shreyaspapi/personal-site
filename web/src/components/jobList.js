@@ -5,7 +5,7 @@ import { Job } from './job'
 
 const ALL_JOBS_QUERY = graphql`
   query AllJobsQuery {
-    jobs: allSanityJob(limit: 4, sort: { fields: startDate, order: DESC }) {
+    jobs: allSanityJob(limit: 5, sort: { fields: startDate, order: DESC }) {
       nodes {
         title
         endDate(formatString: "YYYY")

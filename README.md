@@ -1,1 +1,3 @@
-# My personal website : https://shreyasp.me https://shreyasp.co
+Personal site of Dan Hollick.
+
+Built with Gatsby and Sanity.

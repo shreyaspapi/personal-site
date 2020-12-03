@@ -1,10 +1,10 @@
 {
-  "name": "alcohollick",
+  "name": "shreyaspapi",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Daniel Hollick <dan.hollick@gmail.com>",
+  "author": "Shreyas Papinwar <spapinwar@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -24,7 +24,8 @@
     "@sanity/vision": "^0.147.9",
     "prop-types": "^15.6",
     "react": "^16.2",
-    "react-dom": "^16.2"
+    "react-dom": "^16.2",
+    "sanity": "^2.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
@@ -37,5 +38,9 @@
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shreyaspapi/shreyaspapi.github.io.git"
   }
 }
