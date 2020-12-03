@@ -5,7 +5,7 @@ module.exports = {
     author: `Shreyas Papinwar`,
     twitterUsername: '@spapinwar',
     url: 'https://www.shreyasp.me', // No trailing slash allowed!
-    image: 'https://cdn.sanity.io/images/h2w4qpx8/production/8c8ab9aff37b358a8db3bf9a6555964b706d8a78-2870x1486.png?h=400&fit=max'
+    image: 'https://raw.githubusercontent.com/shreyaspapi/shreyaspapi.github.io/master/web/src/images/aboutPreview.png?token=AFKKMQWWCMKEOWHBA73S6PK72IIJ2'
 
   },
   plugins: [
