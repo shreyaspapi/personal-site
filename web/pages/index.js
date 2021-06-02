@@ -31,7 +31,7 @@ const IndexPage = ({ jobs }) => (
         className="JustifyEnd"
         width={400}
         height={400}
-        src="profile.png"
+        src="https://raw.githubusercontent.com/shreyaspapi/personal-site/master/web/profile.png"
       />
     </Columns>
   </Page>
