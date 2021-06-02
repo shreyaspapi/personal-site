@@ -1,10 +1,10 @@
 {
-  "name": "alcohollick",
+  "name": "shreyaspapi",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Daniel Hollick <dan.hollick@gmail.com>",
+  "author": "Shreyas Papinwar <spapinwar@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
