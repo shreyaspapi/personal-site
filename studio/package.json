@@ -1,10 +1,10 @@
 {
-  "name": "shreyaspapi",
+  "name": "alcohollick",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Shreyas Papinwar <spapinwar@gmail.com>",
+  "author": "Daniel Hollick <dan.hollick@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -14,18 +14,17 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^0.147.8",
-    "@sanity/code-input": "^0.147.0",
-    "@sanity/components": "^0.147.9",
-    "@sanity/core": "^0.147.9",
-    "@sanity/default-layout": "^0.147.9",
-    "@sanity/default-login": "^0.147.0",
-    "@sanity/desk-tool": "^0.147.9",
-    "@sanity/vision": "^0.147.9",
+    "@sanity/base": "^2.0.9",
+    "@sanity/code-input": "^2.0.9",
+    "@sanity/components": "^2.0.9",
+    "@sanity/core": "^2.0.9",
+    "@sanity/default-layout": "^2.0.9",
+    "@sanity/default-login": "^2.0.9",
+    "@sanity/desk-tool": "^2.0.9",
+    "@sanity/vision": "^2.0.9",
     "prop-types": "^15.6",
     "react": "^16.2",
-    "react-dom": "^16.2",
-    "sanity": "^2.0.1"
+    "react-dom": "^16.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
@@ -38,9 +37,5 @@
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.19.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shreyaspapi/shreyaspapi.github.io.git"
   }
 }
